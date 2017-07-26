@@ -2,7 +2,7 @@
 HonestCoin is the hottest new ICO contract that issues tokens in exchange for ether (1:1 ratio for simplicity)
 
 Because the creators of HonestCoin care about transparency, they gaurantee their contract has the following features:
-f
+
 ## Deposited Ether can only be claimed after 6 months
 There is a build in check which ensures that the withdrawFromEscrow() function can only be called after 6 months worth of blocks have elapsed since contract creation. This ensures creators have an incentive to, you know, create.
 ## For the first 5 months, users can vote on whether the 'freeze' the ICO.
