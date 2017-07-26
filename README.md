@@ -1,4 +1,4 @@
-HonestCoin, the 100% Honest and Fair ICO
+# HonestCoin, the 100% Honest and Fair ICO
 HonestCoin is the hottest new ICO contract that issues tokens in exchange for ether (1:1 ratio for simplicity)
 
 Because the creators of HonestCoin care about transparency, they gaurantee their contract has the following features:
