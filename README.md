@@ -33,7 +33,8 @@ Investors are enthusiastic! However, as time passes concern rises that the devel
                 frozen = true;
             }
         }
-    }```
+    }
+```
 
 The votes are tallied by iterating over the 'votes' array. However as so many investors have earnestly voted, this array is so large that the gas cost to run the function exceeds the block gas limit! The ICO contract can't be frozen!
 
